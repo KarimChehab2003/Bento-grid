@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Bento-grid/static/css/main.f6f1a731.css",
-    "main.js": "/Bento-grid/static/js/main.f925c3c8.js",
+    "main.js": "/Bento-grid/static/js/main.365ccd57.js",
     "static/js/453.6195e445.chunk.js": "/Bento-grid/static/js/453.6195e445.chunk.js",
     "static/media/DMSans-MediumItalic.ttf": "/Bento-grid/static/media/DMSans-MediumItalic.b717d7fe5a14690faf30.ttf",
     "static/media/DMSans-Medium.ttf": "/Bento-grid/static/media/DMSans-Medium.3b0ba81ccb599b9c3f61.ttf",
     "static/media/DMSans-Regular.ttf": "/Bento-grid/static/media/DMSans-Regular.36401d66ca415d09e170.ttf",
     "index.html": "/Bento-grid/index.html",
     "main.f6f1a731.css.map": "/Bento-grid/static/css/main.f6f1a731.css.map",
-    "main.f925c3c8.js.map": "/Bento-grid/static/js/main.f925c3c8.js.map",
+    "main.365ccd57.js.map": "/Bento-grid/static/js/main.365ccd57.js.map",
     "453.6195e445.chunk.js.map": "/Bento-grid/static/js/453.6195e445.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f6f1a731.css",
-    "static/js/main.f925c3c8.js"
+    "static/js/main.365ccd57.js"
   ]
 }
